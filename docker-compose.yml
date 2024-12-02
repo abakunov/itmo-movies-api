@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  web:
+    env_file:
+      - .env
+    build:
+      context: ./movies
+      network: host
+    # command: gunicorn/movies.wsgi:application --bind 0.0.0.0:8000
+    command: python manage.py runserver 0.0.0.0:8000
+    restart: always
+    volumes:
+      - ./movies/:/usr/src/app/
+    ports:
+      - 8000:8000
