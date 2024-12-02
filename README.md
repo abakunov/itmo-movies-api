@@ -64,3 +64,10 @@ ITMO Movies API — это RESTful API для управления списко�
 
 - **Режиссеры**: core/fixtures/directors.json
 - **Фильмы**: core/fixtures/movies.json
+
+## Подтверждение работы
+![telegram-cloud-photo-size-2-5364334365552797325-y](https://github.com/user-attachments/assets/6c2e8a18-5904-4b13-96d5-c77e9335b65b)
+![telegram-cloud-photo-size-2-5364334365552797327-y](https://github.com/user-attachments/assets/1c0125c8-73ca-4ad0-8199-57252a2a9a02)
+![telegram-cloud-photo-size-2-5364334365552797331-y](https://github.com/user-attachments/assets/16621b5d-7f43-4953-874e-c7918718b779)
+![telegram-cloud-photo-size-2-5364334365552797334-y](https://github.com/user-attachments/assets/c5eef29c-12cb-4ff9-b9af-64b63cc70d66)
+
