@@ -1,0 +1,58 @@
+[
+    {
+        "model": "core.director",
+        "pk": 1,
+        "fields": {
+            "name": "Christopher Nolan"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 2,
+        "fields": {
+            "name": "Lana Wachowski, Lilly Wachowski"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 3,
+        "fields": {
+            "name": "Robert Zemeckis"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 4,
+        "fields": {
+            "name": "Frank Darabont"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 5,
+        "fields": {
+            "name": "Quentin Tarantino"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 6,
+        "fields": {
+            "name": "Francis Ford Coppola"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 7,
+        "fields": {
+            "name": "Peter Jackson"
+        }
+    },
+    {
+        "model": "core.director",
+        "pk": 8,
+        "fields": {
+            "name": "Roger Allers, Rob Minkoff"
+        }
+    }
+]
